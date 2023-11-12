@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Movie App</string>
+    <string name="movie_poster">Movie poster</string>
+    <string name="release_date">Release date</string>
+    <string name="language">Language</string>
+    <string name="label_overview">Overview</string>
+    <string name="label_votes">%s votes</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="movie_details">Movies Details</string>
+</resources>

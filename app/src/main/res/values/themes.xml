@@ -1,0 +1,16 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.MovieApp" parent="Theme.MaterialComponents.Light.DarkActionBar">
+        <item name="colorPrimary">@color/darkSecondaryColor</item>
+        <item name="colorAccent">@color/accentColor</item>
+        <item name="android:windowBackground">@color/backgroundColor</item>
+        <item name="android:textColor">@color/textColor</item>
+
+    </style>
+
+
+    <style name="appBackground"><item name="android:background">@color/backgroundColor</item></style>
+    <style name="appTextColor"><item name="android:textColor">@color/textColor</item></style>
+    <style name="cardViewBackgroundColor"><item name="android:backgroundTint">@color/white</item></style>
+    <style name="movieDetailsBackground"><item name="android:background">@color/white</item></style>
+</resources>
